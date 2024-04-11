@@ -1,1 +1,2 @@
 good day
+next line
